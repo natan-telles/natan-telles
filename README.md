@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Sou o Natan, estudante técnico em Informática pela Univap e desenvolvedor de software com foco em **segurança da informação**, **cibersegurança** e **defesa de sistemas críticos**. Atuo como estagiário na [@MFSim](https://www.mfsim.com.br/), onde participo do desenvolvimento de aplicações back-end e embarcadas para **simuladores de voo profissionais**.
+Seja bem-vindo! Me chamo Natan, tenho 18 anos e sou estudante técnico em Informática pela Univap e desenvolvedor de software com foco em **segurança da informação**, **cibersegurança** e **desenvolvimento back-end**. Atuo como estagiário na [@MFSim](https://www.mfsim.com.br/), onde participo do desenvolvimento de aplicações back-end e embarcadas para **simuladores de voo profissionais**.
 
 Tenho experiência com **C++**, **C#**, **JavaScript**, **MySQL**, **sockets TCP**, **QML** e interfaces gráficas. Meu foco é criar **soluções robustas, seguras e performáticas** para aplicações reais, explorando desde APIs e validações até integrações com painéis de simulação.
 
@@ -51,12 +51,20 @@ Tenho experiência com **C++**, **C#**, **JavaScript**, **MySQL**, **sockets TCP
 ### 💡 Tecnologias com experiência prévia
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="php" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img align="center" alt="php" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>   
+    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</div><br/>
 
 ---
 
