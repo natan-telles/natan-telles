@@ -1,11 +1,11 @@
 <h1 align="center">Natan Telles ✈️</h1>
-<p align="center">Desenvolvedor Fullstack | Foco em Segurança de Sistemas | Estagiário em Aplicações para Simuladores de Voo</p>
+<p align="center">Desenvolvedor Fullstack | Segurança da Informação & Cibersegurança | Estagiário em Software para Simuladores de Voo</p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Seja bem-vindo! Me chamo Natan, tenho 18 anos e sou estudante técnico em Informática pela Univap e desenvolvedor de software com foco em **segurança da informação**, **cibersegurança** e **desenvolvimento back-end**. Atuo como estagiário na [@MFSim](https://www.mfsim.com.br/), onde participo do desenvolvimento de aplicações back-end e embarcadas para **simuladores de voo profissionais**.
+Seja bem-vindo! Me chamo Natan, tenho 18 anos e sou estudante técnico em Informática pela Univap e desenvolvedor de software com foco em **segurança da informação**, **cibersegurança** e **desenvolvimento back-end**. Atuo como estagiário na [@MFSim](https://www.mfsim.com.br/), onde atuo no desenvolvimento de aplicações back-end e sistemas de controle para simulação, com ênfase em segurança, validação e desempenho..
 
 Tenho experiência com **C++**, **C#**, **JavaScript**, **MySQL**, **sockets TCP**, **QML** e interfaces gráficas. Meu foco é criar **soluções robustas, seguras e performáticas** para aplicações reais, explorando desde APIs e validações até integrações com painéis de simulação.
 
@@ -26,11 +26,11 @@ Tenho experiência com **C++**, **C#**, **JavaScript**, **MySQL**, **sockets TCP
 ### ✈️ Projetos em Simulação – MFSim
 
 - **🛩️ Instrumentação Digital Aviónica**  
-  Participação em projeto existente de integração e manipulação de instrumentos (HSI, FMC, Airspeed), com foco em **confiabilidade, precisão e controle via interface**.  
+  Integração de sistemas existentes com novas rotinas de segurança e controle, atuando diretamente no **código de interface e backend** dos instrumentos (HSI, FMC, Airspeed).  
   🔧 *C++, QML, manipulação de arquivos*
 
 - **📡 Aplicações em Tempo Real para Simuladores**  
-  Desenvolvimento de aplicações que fazem leitura e escrita contínua de dados para simulação de voo.  
+  Desenvolvimento de rotinas em **C# e C++** para leitura/escrita de dados e integração com simuladores de voo, com foco em **robustez e segurança de comunicação**.  
   🔧 *C#, APIs, arquitetura back-end*
 
 ---
@@ -70,10 +70,10 @@ Tenho experiência com **C++**, **C#**, **JavaScript**, **MySQL**, **sockets TCP
 
 ### 🎯 Interesses
 
-- 🛡️ **Cibersegurança & Segurança de Software**
-- 🧩 **Desenvolvimento back-end com foco em integridade e validação**
-- 🧠 **Sistemas embarcados e defesa de dados**
-- 🌍 **Tecnologia aplicada a desafios reais e críticos**
+- 🔐 **Segurança da Informação & Cibersegurança**
+- 💾 **Desenvolvimento Back-End Robusto**
+- ⚙️ **Sistemas com requisitos críticos e validação de integridade**
+- ✈️ **Software para Simuladores e Ambientes Técnicos**
 
 ---
 
