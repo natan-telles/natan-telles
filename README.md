@@ -83,14 +83,4 @@ Tenho experiência com **C++**, **C#**, **JavaScript**, **MySQL**, **sockets TCP
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan-telles&layout=compact&theme=radical&hide=css" height="250px" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Fullstack%20em%20Sistemas%20Críticos-🛡️💻-blueviolet?style=for-the-badge"/>
-</p>
-
-🧠 *Sempre evoluindo. Sempre codando.*
+🛡️ Segurança não é só técnica — é postura. Evolução não é opção — é missão.
