@@ -1,86 +1,73 @@
 <h1 align="center">Natan Telles ✈️</h1>
-<p align="center">Desenvolvedor Fullstack | Segurança da Informação & Cibersegurança | Estagiário em Software para Simuladores de Voo</p>
+<p align="center">
+  <strong>Software Development Student (ADS) | Backend Engineering | Systems Security</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/natan-telles-5b2970288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:natanstelles@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 Professional Profile
 
-Seja bem-vindo! Me chamo Natan, tenho 18 anos e sou estudante técnico em Informática pela Univap e desenvolvedor de software com foco em **segurança da informação**, **cibersegurança** e **desenvolvimento back-end**. Atuo como estagiário na [@MFSim](https://www.mfsim.com.br/), onde atuo no desenvolvimento de aplicações back-end e sistemas de controle para simulação, com ênfase em segurança, validação e desempenho..
+I am a Software Developer driven by a passion for solving complex problems through clean code and secure architecture. Currently, I am pursuing a degree in **Analysis and Systems Development (ADS)**, building a solid theoretical and practical foundation in software engineering and systems design.
 
-Tenho experiência com **C++**, **C#**, **JavaScript**, **MySQL**, **sockets TCP**, **QML** e interfaces gráficas. Meu foco é criar **soluções robustas, seguras e performáticas** para aplicações reais, explorando desde APIs e validações até integrações com painéis de simulação.
-
----
-
-### 🔐 Projetos com ênfase em segurança
-
-- **🔐 API de Validação de Licença**  
-  Backend desenvolvido para garantir o uso legítimo de softwares, com validação baseada em endereços únicos de máquina e dados hospedados em nuvem.  
-  🔧 *JavaScript (Node.js), MySQL, REST API*
-
-- **🧭 Software de Instrução de Voo (2024)**  
-  Aplicação customizada que recebe e processa dados via **socket TCP**, usando plugin desenvolvido por mim para integração com o simulador. Inclui validações internas para garantir integridade de dados em tempo real.  
-  🔧 *C++, C#, Sockets, Windows Forms*
+My experience as an intern has allowed me to bridge the gap between academic theory and industry requirements, working on **mission-critical environments** where performance and data integrity are non-negotiable. I thrive in the intersection of backend logic, network communication, and system security.
 
 ---
 
-### ✈️ Projetos em Simulação – MFSim
+### 🎓 Academic & Professional Background
 
-- **🛩️ Instrumentação Digital Aviónica**  
-  Integração de sistemas existentes com novas rotinas de segurança e controle, atuando diretamente no **código de interface e backend** dos instrumentos (HSI, FMC, Airspeed).  
-  🔧 *C++, QML, manipulação de arquivos*
-
-- **📡 Aplicações em Tempo Real para Simuladores**  
-  Desenvolvimento de rotinas em **C# e C++** para leitura/escrita de dados e integração com simuladores de voo, com foco em **robustez e segurança de comunicação**.  
-  🔧 *C#, APIs, arquitetura back-end*
+* **Analysis and Systems Development (ADS):** Currently focusing on software lifecycle, data structures, and architectural patterns.
+* **Technical Informatics (Univap):** Strong foundation in logic, hardware, and networking.
+* **Software Internship:** Hands-on experience developing and maintaining applications within the flight simulation industry, focusing on real-time data processing and system integration.
 
 ---
 
-### ⚙️ Ferramentas em uso atualmente
+### 🛠️ Core Competencies & Hard Skills
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="cpp" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img align="center" alt="qml" src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+* **Systems Programming:** Proficiency in low-level and high-level languages including **C++, C#, and Python**.
+* **Data Management:** Design and management of relational databases (**MySQL**) and exploration of distributed data streams (**Kafka**).
+* **Backend Architecture:** Experience with **Node.js**, **API development**, and **TCP/UDP socket programming** for real-time communication.
+* **Security Mindset:** Implementing hardware-based validation, data encryption, and robust authentication flows.
+* **UI/UX for Systems:** Developing functional and performant interfaces using **QML** and **Windows Forms**.
 
 ---
 
-### 💡 Tecnologias com experiência prévia
+### ⚙️ Technologies & Tools
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>   
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div><br/>
+**Languages & Frameworks:**
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+</p>
 
----
-
-### 🎯 Interesses
-
-- 🔐 **Segurança da Informação & Cibersegurança**
-- 💾 **Desenvolvimento Back-End Robusto**
-- ⚙️ **Sistemas com requisitos críticos e validação de integridade**
-- ✈️ **Software para Simuladores e Ambientes Técnicos**
+**Infrastructure & Databases:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-### 📫 Contato
+### 🎯 Key Interests
 
-[LinkedIn](https://www.linkedin.com/in/natan-telles-5b2970288/) • [Instagram](https://www.instagram.com/natantelles_/) • Email: **natanstelles@gmail.com**
+- 🛡️ **Information Security:** Exploring cybersecurity frameworks and secure coding practices.
+- 📡 **Real-time Data:** Optimizing low-latency communication for distributed systems.
+- 🏗️ **Systems Scalability:** Learning to design applications that grow efficiently through modern backend patterns.
 
 ---
 
-🛡️ Segurança não é só técnica — é postura. Evolução não é opção — é missão.
+🛡️ *Security is a posture, not just a feature. Continuous evolution is the mission.*
