@@ -1,6 +1,6 @@
 <h1 align="center">Natan Telles ✈️</h1>
 <p align="center">
-  <strong>Software Development Student (ADS) | Backend Engineering | Systems Security</strong>
+  <strong>Database Student (DB) | Backend Engineering | Systems Security</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Professional Profile
 
-I am a Software Developer driven by a passion for solving complex problems through clean code and secure architecture. Currently, I am pursuing a degree in **Analysis and Systems Development (ADS)**, building a solid theoretical and practical foundation in software engineering and systems design.
+I am a Software Developer driven by a passion for solving complex problems through clean code and secure architecture. Currently, I am pursuing a degree in **Database (DB)**, building a solid theoretical and practical foundation in software engineering and systems design.
 
 My experience as an intern has allowed me to bridge the gap between academic theory and industry requirements, working on **mission-critical environments** where performance and data integrity are non-negotiable. I thrive in the intersection of backend logic, network communication, and system security.
 
